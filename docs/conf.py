@@ -1,5 +1,5 @@
-project = 'Norton'
-author = 'Your Name'
+project = 'roadrunner-login'
+author = 'roadrunner-login'
 release = '1.0'
 
 extensions = []
